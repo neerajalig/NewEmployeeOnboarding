@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Microsoft.Teams.Apps.NewHireOnboarding.Resources {
+namespace Microsoft.Teams.Apps.NewHireOnboarding {
     using System;
     
     
