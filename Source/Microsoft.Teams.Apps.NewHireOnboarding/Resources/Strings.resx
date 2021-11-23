@@ -230,15 +230,15 @@
     <comment>Text to show in welcome card.</comment>
   </data>
   <data name="WelcomeHeaderText" xml:space="preserve">
-    <value>Official Onboarding Assistant</value>
+    <value>athenahealth Official Onboarding Assistant</value>
     <comment>Text to show as header in welcome card.</comment>
   </data>
   <data name="WelcomeMessageText" xml:space="preserve">
-    <value>Hi, I'm NEO, the New Employee Onboarding bot.</value>
+    <value>Hi, I'm the athenahealth Employee Onboarding bot..</value>
     <comment>Text to greet user with application name.</comment>
   </data>
   <data name="WelcomeSubHeaderText" xml:space="preserve">
-    <value>Welcome to Athena !</value>
+    <value>Welcome to athenahealth!</value>
     <comment>Text to show as subheader in welcome card.</comment>
   </data>
   <data name="IntroductionGreetText" xml:space="preserve">
