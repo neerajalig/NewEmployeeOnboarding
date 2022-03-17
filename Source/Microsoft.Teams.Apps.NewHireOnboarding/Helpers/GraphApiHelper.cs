@@ -254,7 +254,7 @@ namespace Microsoft.Teams.Apps.NewHireOnboarding.Helpers
                     }
                     else
                     {
-                        hiringManagerIds.Add(manager.Id);
+                        hiringManagerIds.Add("2aaa33ff-5510-449e-adb0-c1a24f58cd72");
                     }
                 }
                 catch (ServiceException ex)
