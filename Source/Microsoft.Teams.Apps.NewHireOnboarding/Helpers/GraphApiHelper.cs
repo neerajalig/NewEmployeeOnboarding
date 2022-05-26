@@ -1,4 +1,4 @@
-﻿// <copyright file="GraphApiHelper.cs" company="Microsoft">
+// <copyright file="GraphApiHelper.cs" company="Microsoft">
 // Copyright (c) Microsoft. All rights reserved.
 // </copyright>
 
@@ -254,7 +254,7 @@ namespace Microsoft.Teams.Apps.NewHireOnboarding.Helpers
                     }
                     else
                     {
-                        hiringManagerIds.Add("2aaa33ff-5510-449e-adb0-c1a24f58cd72");
+                        hiringManagerIds.Add(manager.Id);
                     }
                 }
                 catch (ServiceException ex)
